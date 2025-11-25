@@ -76,7 +76,7 @@ GreenEvents is a sustainable event management platform designed to help organize
 ## 📁 Project Structure
 
 ```
-GreenEvents/
+Event-Organiser/
 ├── events/                 # Event management app
 ├── users/                  # User authentication and profiles
 ├── analytics/             # Sustainability metrics and reporting
